@@ -1,0 +1,3 @@
+# Project exclude paths
+/spring_boot/target/
+/spring_boot_jpa_thymeleaf/target/
